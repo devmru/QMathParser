@@ -1,2 +1,2 @@
 # QMathParser
-Brought to you by: http://sourceforge.net/users/mohdumar
+Brought to you by: [a mohdumar](http://sourceforge.net/users/mohdumar)
